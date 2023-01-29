@@ -1,0 +1,19 @@
+{
+  "name": "gmxdrawingv",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "self-intersects": "^0.0.3",
+    "splaytree": "^3.1.1",
+    "tinyqueue": "^2.0.3"
+  }
+}
